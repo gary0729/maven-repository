@@ -1,2 +1,2 @@
 # maven-repository
-github
+github maven-repository
